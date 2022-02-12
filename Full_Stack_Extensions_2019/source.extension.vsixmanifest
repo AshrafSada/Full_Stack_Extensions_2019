@@ -4,7 +4,7 @@
         <Identity Id="Full_Stack_Extensions_2019.792aba5a-88f9-4140-9150-3ca70dc48e89" Version="1.0" Language="en-US" Publisher="Ashraf Sada" />
         <DisplayName>Full Stack Extensions VS 2019</DisplayName>
         <Description xml:space="preserve">Extension Pack 
-Full Stack Extensions VS 2019</Description>
+Full Stack Extensions for VS 2019</Description>
         <Preview>true</Preview>
     </Metadata>
     <Installation>

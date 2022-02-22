@@ -3,12 +3,36 @@
   "version": "1.0.0.0",
   "extensions": [
     {
+      "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3",
+      "name": "Add New File"
+    },
+    {
+      "vsixId": "CodeBlockEndTag.KhaosCoders.5743e483-e347-4815-8c9d-7fc46ca75382",
+      "name": "CodeBlockEndTag"
+    },
+    {
+      "vsixId": "ClearRecent.a058d6db-b626-4d1b-8b98-da97e2e63561",
+      "name": "Clear Recent"
+    },
+    {
       "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316",
       "name": "CodeMaid"
     },
     {
-      "vsixId": "e99dde0e-e023-410d-bc5d-3f76db71e3f0",
-      "name": "Open in Visual Studio Code"
+      "vsixId": "11559f0c-c44f-4a26-98e7-f5015f07d691",
+      "name": "Color Picker"
+    },
+    {
+      "vsixId": "f5028141-9dd0-4ac4-ae6d-0481ae9a940d",
+      "name": "Clear MEF Component Cache"
+    },
+    {
+      "vsixId": "e2abe71c-24a4-4e59-8cc1-8c7805afe23f",
+      "name": "C# Methods Code Snippets"
+    },
+    {
+      "vsixId": "ea5c68d6-cdae-4e79-bd46-2a39e95bb256",
+      "name": "File Differ"
     },
     {
       "vsixId": "fcc-f339fe606-9d51-4fca-895c-d50375137b62",
@@ -21,14 +45,6 @@
     {
       "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6",
       "name": "Markdown Editor"
-    },
-    {
-      "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3",
-      "name": "Add New File"
-    },
-    {
-      "vsixId": "43b35fe0-1f30-48de-887a-68256474202a",
-      "name": "ResXManager"
     },
     {
       "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8",
@@ -55,40 +71,8 @@
       "name": "EF Core Power Tools"
     },
     {
-      "vsixId": "d42db039-5432-4399-bb62-67a9b4c3b838",
-      "name": "Roslynator 2019"
-    },
-    {
-      "vsixId": "f5028141-9dd0-4ac4-ae6d-0481ae9a940d",
-      "name": "Clear MEF Component Cache"
-    },
-    {
-      "vsixId": "e2abe71c-24a4-4e59-8cc1-8c7805afe23f",
-      "name": "C# Methods Code Snippets"
-    },
-    {
-      "vsixId": "ea5c68d6-cdae-4e79-bd46-2a39e95bb256",
-      "name": "File Differ"
-    },
-    {
-      "vsixId": "ReasonCodeExample.XPathInformation.v1.0",
-      "name": "XPath Tools"
-    },
-    {
-      "vsixId": "1c63270f-485d-4810-99b8-e9d9de82610c",
-      "name": "CSS Tools 2019"
-    },
-    {
       "vsixId": "IndentRainbow.f05146ed-8025-4668-b7b1-8a74bd22b241",
       "name": "IndentRainbow"
-    },
-    {
-      "vsixId": "CodeBlockEndTag.KhaosCoders.5743e483-e347-4815-8c9d-7fc46ca75382",
-      "name": "CodeBlockEndTag"
-    },
-    {
-      "vsixId": "ClearRecent.a058d6db-b626-4d1b-8b98-da97e2e63561",
-      "name": "Clear Recent"
     },
     {
       "vsixId": "MultiCaretsBooster.109ffd6b-9fc9-46cb-84a1-4b0c00437c42",
@@ -99,16 +83,20 @@
       "name": "Output Enhancer"
     },
     {
-      "vsixId": "fe00c281-eed0-4c6e-901b-d8b845c82e35",
-      "name": "Experimental Tools 2017/2019"
+      "vsixId": "e99dde0e-e023-410d-bc5d-3f76db71e3f0",
+      "name": "Open in Visual Studio Code"
+    },
+    {
+      "vsixId": "43b35fe0-1f30-48de-887a-68256474202a",
+      "name": "ResXManager"
+    },
+    {
+      "vsixId": "d42db039-5432-4399-bb62-67a9b4c3b838",
+      "name": "Roslynator 2019"
     },
     {
       "vsixId": "97188178-f68c-49a6-9e5e-5fb99661bf09",
       "name": "SteroidsVS"
-    },
-    {
-      "vsixId": "InlineErrorAdornment.a0918553-b2ac-46fc-b5d6-9d7284b9f2fa",
-      "name": "Visual Studio Show Inline Errors"
     },
     {
       "vsixId": "SolutionErrorVisualizer.a392f96b-6b33-4b53-b4bb-3376a05f986c",
@@ -117,6 +105,10 @@
     {
       "vsixId": "52d9c3ff-c893-408e-95e4-d7484ec7fa47",
       "name": "WakaTime"
+    },
+    {
+      "vsixId": "ReasonCodeExample.XPathInformation.v1.0",
+      "name": "XPath Tools"
     },
     {
       "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf",

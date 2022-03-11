@@ -1,3 +1,4 @@
+
 {
   "description": "Read about creating extension packs at https://aka.ms/vsextpack",
   "version": "1.0.0.0",
@@ -25,7 +26,6 @@
     { "vsixId": "d42db039-5432-4399-bb62-67a9b4c3b838",                                     "name": "Roslynator 2019"                         },
     { "vsixId": "SolutionErrorVisualizer.a392f96b-6b33-4b53-b4bb-3376a05f986c",             "name": "Solution Error Visualizer"               },
     { "vsixId": "97188178-f68c-49a6-9e5e-5fb99661bf09",                                     "name": "SteroidsVS"                              },
-    { "vsixId": "InlineErrorAdornment.a0918553-b2ac-46fc-b5d6-9d7284b9f2fa",                "name": "Visual Studio Show Inline Errors"        },
     { "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748",                                     "name": "Visual Studio Spell Checker"             },
     { "vsixId": "52d9c3ff-c893-408e-95e4-d7484ec7fa47",                                     "name": "WakaTime"                                },
     { "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf",                                     "name": "ZenCoding"                               },
